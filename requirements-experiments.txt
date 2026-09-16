@@ -1,0 +1,5 @@
+# Python 3.10+ helpers for paper experiment drivers.
+# The C++ runtime does not need this file.
+numpy
+opencv-python
+matplotlib

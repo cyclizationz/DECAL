@@ -1,0 +1,11 @@
+deployment/build/
+deployment/onnxruntime-*/
+deployment/outputs/
+outputs/
+data/
+eval/
+*.onnx
+.venv/
+__pycache__/
+*.pyc
+decal-src.zip

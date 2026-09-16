@@ -1,0 +1,42 @@
+[
+  {
+    "clip_id": "fc5_00",
+    "game": "fc5",
+    "family": "learned",
+    "source_tag": "drive_clip",
+    "source_path": "clips/fc5_00.mp4",
+    "clip_path": "clips/fc5_00.mp4",
+    "normalized_path": "clips/fc5_00.mp4",
+    "start_s": 0.0,
+    "duration_s": 30.0,
+    "source_width": 1920,
+    "source_height": 1080,
+    "source_fps": 60.0,
+    "target_width": 1920,
+    "target_height": 1080,
+    "target_fps": 60.0,
+    "eligible_duo": true,
+    "eligible_rd": true,
+    "notes": "smoke clip; place under $DECAL_DATA/clips/"
+  },
+  {
+    "clip_id": "fm6_00",
+    "game": "fm6",
+    "family": "learned",
+    "source_tag": "drive_clip",
+    "source_path": "clips/fm6_00.mp4",
+    "clip_path": "clips/fm6_00.mp4",
+    "normalized_path": "clips/fm6_00.mp4",
+    "start_s": 0.0,
+    "duration_s": 100.0,
+    "source_width": 1920,
+    "source_height": 1080,
+    "source_fps": 60.0,
+    "target_width": 1920,
+    "target_height": 1080,
+    "target_fps": 60.0,
+    "eligible_duo": true,
+    "eligible_rd": true,
+    "notes": "smoke clip; place under $DECAL_DATA/clips/"
+  }
+]
